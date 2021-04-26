@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -14,8 +14,8 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "SL",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
