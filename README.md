@@ -2,7 +2,7 @@
 ---
     
     
-![Licensing](https://img.shields.io/github/license/shawnlittrel/e-commerce backend)   ![GitHub language count](https://img.shields.io/github/languages/count/shawnlittrel/e-commerce backend)      ![GitHub issues](https://img.shields.io/github/issues/shawnlittrel/e-commerce backend)   ![GitHub closed issues](https://img.shields.io/github/issues-closed/shawnlittrel/e-commerce backend)      ![GitHub last commit](https://img.shields.io/github/last-commit/shawnlittrel/e-commerce backend)
+![Licensing](https://img.shields.io/github/license/shawnlittrel/ecommerce-backend)   ![GitHub language count](https://img.shields.io/github/languages/count/shawnlittrel/ecommerce-backend)      ![GitHub issues](https://img.shields.io/github/issues/shawnlittrel/ecommerce-backend)   ![GitHub closed issues](https://img.shields.io/github/issues-closed/shawnlittrel/ecommerce-backend)      ![GitHub last commit](https://img.shields.io/github/last-commit/shawnlittrel/ecommerce-backend)
 ---
 
 
